@@ -19,7 +19,9 @@ Just gathering frontend resources as sites and some useful apps for beginner dev
 
 👉 Find free images here: https://unsplash.com/  |  https://www.pexels.com/  |  https://freesvg.org/
 
-👉 Get fonts from here: https://fonts.google.com/
+👉 Get fonts from here: https://fonts.google.com
+
+👉 https://web.dev/
 
 ## 🤯 Useful Fetch REST APIs:
 
