@@ -23,6 +23,9 @@ Just gathering frontend resources as sites and some useful apps for beginner dev
 
 👉 https://web.dev/
 
+👉 Color helper site: https://colorhunt.co/
+
+
 ## 🤯 Useful Fetch REST APIs:
 
 👉 https://randomuser.me/api (Generate random users on every call)
